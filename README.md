@@ -45,6 +45,4 @@ Você saiu do programa!
 - O programa aceita apenas uma linha de texto por vez até 100 caracteres.
 - Não lida com a presença de espaços extras no início ou no final da linha de texto.
 
----
-
-Sinta-se à vontade para ajustar este README conforme necessário para refletir melhor o seu programa e as informações que deseja fornecer aos usuários.
+## Carpe Diem
