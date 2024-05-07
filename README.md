@@ -1,7 +1,7 @@
 # Character Counter | Contador de Caracteres em C
 ### [PT] Contador de caracteres escrito em C // [EN] Character counter written in C
 
-![1. Exemplo de Uso](example.png)
+<img src="example.png" alt="Descrição da imagem" height="250">
 
 Este é um programa simples em C que conta o número de caracteres em uma linha de texto digitada pelo usuário.
 
